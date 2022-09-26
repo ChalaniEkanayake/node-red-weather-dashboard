@@ -8,7 +8,7 @@
 
 ![dashboard](https://user-images.githubusercontent.com/57269629/192213442-50a75a3b-04b6-4a44-a801-4a13db44576b.png)
 
-A dashboard UI for weather data from [OpenWeatherMap API](https://openweathermap.org/api). When weather data passes a user-defined limit, a warning message will be sent through an MQTT broker to the NodeMCU, and the built in LED will start blinking accordingly.
+A dashboard UI to display weather data from [OpenWeatherMap API](https://openweathermap.org/api). When weather data passes a user-defined limit, a warning message will be sent through an MQTT broker to the NodeMCU, and the built in LED will start blinking accordingly.
 
 ![node-mcu-weather-integration](https://user-images.githubusercontent.com/57269629/192211750-eaee3705-ba25-4cf5-b803-1e61ca2fae7f.jpg)
 
