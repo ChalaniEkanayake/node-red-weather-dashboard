@@ -3,7 +3,7 @@
 [![platform](https://img.shields.io/badge/platform-Node--RED-red)](https://nodered.org)
 ![/badge/Node-RED/v3.0.2/green](https://badgen.net/badge/Node-RED/v3.0.2/green)
 ![/badge/Node.js/v14.17.1/green](https://badgen.net/badge/Node.js/v14.17.1/green)
-![/badge/Arduino IDE/v1.8.5/green](https://badgen.net/badge/Arduino IDE/v1.8.5/green)
+![/badge/Arduino_IDE/v1.8.5/green](https://badgen.net/badge/Arduino_IDE/v1.8.5/green)
 ![/badge/license/MIT/blue](https://badgen.net/badge/license/MIT/blue)
 
 ![dashboard](https://user-images.githubusercontent.com/57269629/192213442-50a75a3b-04b6-4a44-a801-4a13db44576b.png)
