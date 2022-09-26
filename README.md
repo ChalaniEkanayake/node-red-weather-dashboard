@@ -61,4 +61,12 @@ Plot real time Temperature, humidity and wind speed data.
 
 ![Dashboard_Charts_Tab](https://user-images.githubusercontent.com/57269629/192213612-2c9c1d9d-7add-4613-a19a-da0a3e225cff.png)
 
+#### NodeMCU (optional)
+
+The user should update ssid and password according to their network. 
+
+Everytime the dashboard displays a warning, it will also be published under the topic "warning". As our NodeMCU is subscribed to the topic "warning", it will receive that message and blink the built in LED according to by how much the weather data surpassed the set warning limit. 
+
+![Screen Shot 2022-09-18 at 12 29 11 am](https://user-images.githubusercontent.com/57269629/192217103-e7642da2-6cce-47db-998e-29c31798cb43.png)
+
 
