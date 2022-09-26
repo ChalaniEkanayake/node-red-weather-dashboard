@@ -5,9 +5,11 @@
 ![/badge/Node.js/v14.17.1/green](https://badgen.net/badge/Node.js/v14.17.1/green)
 ![/badge/license/MIT/blue](https://badgen.net/badge/license/MIT/blue)
 
+![Dashboard_Weather_Tab](https://user-images.githubusercontent.com/57269629/192207403-2b83761c-18fc-4817-9d2e-1dce0985c4f0.png)
+
 A dashboard UI for weather data from [OpenWeatherMap API](https://openweathermap.org/api). When weather data passes a user-defined limit, a warning message will be sent through an MQTT broker to the NodeMCU, and the built in LED will start blinking accordingly.
 
-![Dashboard_Weather_Tab](https://user-images.githubusercontent.com/57269629/192207403-2b83761c-18fc-4817-9d2e-1dce0985c4f0.png)
+![node-mcu-weather-integration](https://user-images.githubusercontent.com/57269629/192211750-eaee3705-ba25-4cf5-b803-1e61ca2fae7f.jpg)
 
 ## Pre-requisites
 
