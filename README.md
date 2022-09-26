@@ -11,9 +11,22 @@ A dashboard UI for weather data from [OpenWeatherMap API](https://openweathermap
 
 ## Pre-requisites
 
-The Node-RED-Dashboard requires [Node-RED](https://nodered.org) to be installed.
+The Node-RED-Dashboard requires [Node-RED](https://nodered.org) to be installed on your local machine.
 
 Create a API key using [OpenWeatherMap API](https://openweathermap.org/api). I used their Current Weather Data API. This key needs to be added to OpenWeatherMap nodes in the flow.
 
-Install [node-red-contrib-moment](https://flows.nodered.org/node/node-red-contrib-moment), [node-red-dashboard](https://flows.nodered.org/node/node-red-dashboard) and [node-red-node-openweathermap](https://flows.nodered.org/node/node-red-node-openweathermap) to your Node-RED
+## Install
+
+To install new nodes, use `Menu - Manage palette` option and search for the below mentioned nodes.
+1. [node-red-dashboard](https://flows.nodered.org/node/node-red-dashboard)
+2. [node-red-node-openweathermap](https://flows.nodered.org/node/node-red-node-openweathermap)
+3. [node-red-contrib-moment](https://flows.nodered.org/node/node-red-contrib-moment)
+
+After installation, you should have new nodes available under `dashboard`, `weather` and `formats` tabs in the right side pannel. 
+
+## Setting up
+
+Add your OpenWeatherMap API key to the `openweathermap` nodes in the flow.
+
+Once done, open the dashboard at <http://localhost:1880/ui> 
 
